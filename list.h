@@ -59,10 +59,6 @@ void printList(list headList,int flag) ;
  */
 void freelist(list headList);
 
-/*A pointer to a linked list*/
-typedef struct linked_list *list;
-
-
 
 
 #endif
